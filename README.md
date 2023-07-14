@@ -28,12 +28,12 @@ Mitigating accidents is important, but when they do happen, fatalities represent
 
 In analyzing the airplane make, summation analysis simply showed that some Makes have large amounts of fatalities. 
 
-![Fatalities by Make (Line)](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/4723356c-b053-44b2-b1c8-4e29f5d5b1b1)
+![Fatalaties by Make (Summation)](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/aef42ed4-57c5-4e64-92ca-65a9f72acd16)
+
 
 However, once we plotted this over time, we observed that certain Makes, despite having a significant number of fatalities over the past 40 years have exhibited a consistent decrease in those numbers.
 
-<img width="723" alt="Screenshot 2023-07-13 at 6 28 37 PM" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/404edf32-8d73-4f50-b403-2fd12e9ff5fe">
-
+![Fatalities by Make (Line)](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/4723356c-b053-44b2-b1c8-4e29f5d5b1b1)
 
 **Fatalities Associated with Engine Type.**
 
