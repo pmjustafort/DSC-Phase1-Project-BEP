@@ -24,7 +24,7 @@ We utilize the summation method to calculate the total sum of relevant values. A
 Mitigating accidents is important, but when they do happen, fatalities represent the worst-case scenario. To ensure comprehensive insights and facilitate proactive risk mitigation, we have diligently filtered and thoroughly analyzed the available dataset. Our analysis focuses on examining the intricate relationship between fatalities and critical variables, including airplane make, engine type, and region of flight. By meticulously exploring these factors, we aim to uncover valuable patterns and trends that can empower your business to make informed decisions, enhance safety protocols, and effectively minimize potential risks and incidents.
 
 ## Results
-Fatalities Associated with Each Specific Airplane Make.
+**Fatalities Associated with Each Specific Airplane Make.**
 In analyzing the airplane make, summation analysis simply showed that some Makes have large amounts of fatalities. 
 
  <img width="499" alt="image" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/9a793fd2-338e-4122-a9d7-71ae23737992">
@@ -41,6 +41,7 @@ In our analysis, we focused on the two most prevalent engine types in the datase
  <img width="888" alt="Screenshot 2023-07-13 at 6 28 04 PM" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/c72f71d9-5fbe-44b0-abf1-8de032429034">
 
 **Fatalities By US Region.**
+
 Upon grouping the states by region, we observed distinct patterns regarding fatalities. The Southwest and Northeast regions stood out with the fewest recorded fatalities, while the Southeast and West regions exhibited the highest number of fatalities.
 
 ![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/fc62e4b5-b788-4e76-bb74-0d6cf34e8691)
