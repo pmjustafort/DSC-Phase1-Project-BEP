@@ -13,6 +13,8 @@ Our project involves analyzing aviation data from the National Transportation Sa
 Our newly established company, XXX, is entering the aviation industry, specifically in the purchase and operation of airplanes. In embarking on this exciting venture, we understand the paramount importance of prioritizing safety and establishing a reliable and secure operation right from the outset. Recent aviation incidents, such as the Boeing 737 MAX crisis triggered by the crashes of Lion Air Flight 610 and Ethiopian Airlines Flight 302, have underscored the critical significance of safety in aviation operations. To ensure long-term success and sustainability, we are committed to implementing robust safety practices and procedures that prioritize the well-being of passengers, crew members, and all stakeholders involved. By thoroughly exploring and analyzing decades of aviation data, we aim to make informed decisions that further enhance our commitment to safety and operational excellence.
 
 ## **Data**
+![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/c91e6b81-8c9d-4672-8a37-ebf45d3cace7)
+
 The data utilized in this project are sourced from the National Transportation Safety Board (NTSB) aviation accident database, which houses an extensive collection of approximately 85,000 aviation accidents recorded between 1980 and 2022. This comprehensive dataset provides a rich resource for analyzing and exploring various aspects of aviation safety and accident patterns over a significant timeframe.
 
 ## Methods
