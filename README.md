@@ -76,7 +76,7 @@ By pursuing these next steps and further exploring the suggested variables, the 
 
 ## Further Details
 
-Further details are available in the full analysis presented in the Jupyter Notebook, as well as our interactive Tableau dashboard accessible via the provided link https://public.tableau.com/authoring/Daly_Phase1_Project/Dashboard1#1. The Tableau dashboard provides a comprehensive visual representation of the data, allowing for deeper exploration and analysis.
+Further details are available in the full analysis presented in the Jupyter Notebook, as well as our interactive [Interactive Tableau Dashboard](https://public.tableau.com/authoring/Daly_Phase1_Project/Dashboard1#1). The Tableau dashboard provides a comprehensive visual representation of the data, allowing for deeper exploration and analysis.
 
 ## **Repository Structure**
 
