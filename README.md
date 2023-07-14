@@ -34,6 +34,7 @@ However, once we plotted this over time, we observed that certain Makes, despite
 <img width="723" alt="Screenshot 2023-07-13 at 6 28 37 PM" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/404edf32-8d73-4f50-b403-2fd12e9ff5fe">
 
 **Fatalities Associated with Engine Type.**
+
 In our analysis, we focused on the two most prevalent engine types in the dataset: the Reciprocating engine and the Turbofan engine. The Reciprocating engines exhibited a higher number of fatalities compared to Turbofan engines. However, they were also much more widespread across different airplane makes. Notably, we observed a downward trend among airplane makes utilizing reciprocating engines, indicating a decrease in fatalities over time. On the other hand, fatal accidents involving Turbofan engines were sporadic before 2005, but a consistent decrease in fatal accidents was observed thereafter. This trend may be attributed to the widespread popularity of Turbofan engines, potentially driving engineers to refine and perfect this engine type, resulting in improved safety measures and a reduction in fatal accidents.
 
  <img width="888" alt="Screenshot 2023-07-13 at 6 28 04 PM" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/c72f71d9-5fbe-44b0-abf1-8de032429034">
