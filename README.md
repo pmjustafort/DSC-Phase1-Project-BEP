@@ -28,7 +28,7 @@ Mitigating accidents is important, but when they do happen, fatalities represent
 
 In analyzing the airplane make, summation analysis simply showed that some Makes have large amounts of fatalities. 
 
- <img width="499" alt="image" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/9a793fd2-338e-4122-a9d7-71ae23737992">
+![Fatalities by Make (Line)](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/4723356c-b053-44b2-b1c8-4e29f5d5b1b1)
 
 However, once we plotted this over time, we observed that certain Makes, despite having a significant number of fatalities over the past 40 years have exhibited a consistent decrease in those numbers.
 
@@ -39,13 +39,16 @@ However, once we plotted this over time, we observed that certain Makes, despite
 
 In our analysis, we focused on the two most prevalent engine types in the dataset: the Reciprocating engine and the Turbofan engine. The Reciprocating engines exhibited a higher number of fatalities compared to Turbofan engines. However, they were also much more widespread across different airplane makes. Notably, we observed a downward trend among airplane makes utilizing reciprocating engines, indicating a decrease in fatalities over time. On the other hand, fatal accidents involving Turbofan engines were sporadic before 2005, but a consistent decrease in fatal accidents was observed thereafter. This trend may be attributed to the widespread popularity of Turbofan engines, potentially driving engineers to refine and perfect this engine type, resulting in improved safety measures and a reduction in fatal accidents.
 
- <img width="888" alt="Screenshot 2023-07-13 at 6 28 04 PM" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/c72f71d9-5fbe-44b0-abf1-8de032429034">
+
+![Fatalities by Engine Type](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/e496b9fe-3c04-4ebe-861b-a45d1ef12353)
+
 
 **Fatalities By US Region.**
 
 Upon grouping the states by region, we observed distinct patterns regarding fatalities. The Southwest and Northeast regions stood out with the fewest recorded fatalities, while the Southeast and West regions exhibited the highest number of fatalities.
 
-![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/fc62e4b5-b788-4e76-bb74-0d6cf34e8691)
+![Fatalaties by Region (Summation)](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/838d1360-773e-4258-bbf2-48fdae0741c2)
+
  
 ## **Conclusions**
 Based on the analysis conducted in this project, the following observations can be made:
