@@ -38,7 +38,8 @@ In our analysis, we focused on the two most prevalent engine types in the datase
 
 **Fatalities By US Region.**
 Upon grouping the states by region, we observed distinct patterns regarding fatalities. The Southwest and Northeast regions stood out with the fewest recorded fatalities, while the Southeast and West regions exhibited the highest number of fatalities.
-<img width="257" alt="Screenshot 2023-07-13 at 6 29 05 PM" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/578cba37-368d-4e7b-b4ee-06c7968b3b96">
+
+![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/fc62e4b5-b788-4e76-bb74-0d6cf34e8691)
  
 ## **Conclusions**
 Based on the analysis conducted in this project, the following observations can be made:
