@@ -15,7 +15,7 @@ Our newly established company, BEP Aviation, is entering the aviation industry, 
 ## **Data**
 ![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/c91e6b81-8c9d-4672-8a37-ebf45d3cace7)
 
-The data utilized in this project are sourced from the National Transportation Safety Board (NTSB) aviation accident database. We narrowed this data down to approximately 85,000 aviation accidents recorded between 1980 and 2022 in the United States. This comprehensive dataset provides a rich resource for analyzing and exploring various aspects of aviation safety and accident patterns over a significant timeframe. Our main goal is to minimize the risk of your company experiencing a worst-case scenario, a fatality in an aviation accident. To do this, we focused on the relationship between fatalities and airplane make, engine type, and region of flight.
+The data utilized in this project is sourced from the National Transportation Safety Board (NTSB) aviation accident database. We narrowed this data down to approximately 85,000 aviation accidents recorded between 1980 and 2022 in the United States. This comprehensive dataset provides a rich resource for analyzing and exploring various aspects of aviation safety and accident patterns over a significant timeframe. Our main goal is to minimize the risk of your company experiencing a worst-case scenario, a fatality in an aviation accident. To do this, we focused on the relationship between fatalities and airplane make, engine type, and region of flight.
 
 ## Methods
 We utilize the summation method to calculate the total sum of relevant values. Additionally, we harness the robust technique of time series analysis to explore and analyze the temporal patterns, trends, and relationships within aviation data over a specific period. This comprehensive approach allows us to gain valuable insights into the evolution and dynamics of the aviation industry.
@@ -52,9 +52,13 @@ Upon grouping the states by region, we observed distinct patterns regarding fata
  
 ## **Conclusions**
 Based on the analysis conducted in this project, the following observations can be made:
+
 Airplane Make: By examining the decrease in fatalities over time as an indicator of improved airplane safety, Cessna and Piper stand out. Despite having higher numbers of fatalities from airplane crashes compared to other airplanes, both Cessna and Piper have shown a consistent decline in fatalities since 1980. This trend suggests advancements in the safety of their planes.
+
 Engine Type: Reciprocating and Turbo Fan engines have been associated with the highest number of fatalities from airplane crashes. However, it is important to note that these engine types are widely used, particularly Turbo Fan engines in commercial airplanes. Analyzing the data over time reveals a decline in fatalities, indicating potential technological advancements and improved safety. Notably, Turbo Fan engines have consistently demonstrated very low fatalities since 2005, highlighting their reliability and safety record.
+
 U.S. Region of Flight: Our analysis reveals that the Northeast region has exhibited relatively lower numbers of fatalities from plane crashes compared to other regions. With major international and domestic air travel hubs in cities like New York, Boston, and Washington, D.C., the Northeast region is a significant market for air travel and offers potential investment opportunities.
+
 These findings highlight the positive trends in airplane safety, particularly in the context of specific airplane makes, engine types, and U.S. regions of flight. They provide valuable insights for industry stakeholders, enabling them to make informed decisions regarding airplane selection, engine choices, and investment considerations.
 
 ## **Next Steps**
@@ -70,8 +74,8 @@ Considering Flight Types: Expanding the analysis to include more variation in th
 
 By pursuing these next steps and further exploring the suggested variables, the analysis of airplane safety and investment could be strengthened, enabling more informed decision-making for companies in the aviation industry.
 
-#Further Details
-Further details are available in the full analysis presented in the Jupyter Notebook.
+## Further Details
+
+Further details are available in the full analysis presented in the [Jupyter Notebook](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/blob/main/daly_project_1-Copy.ipynb), as well as our interactive [Interactive Tableau Dashboard](https://public.tableau.com/authoring/Daly_Phase1_Project/Dashboard1#1). The Tableau dashboard provides a comprehensive visual representation of the data, allowing for deeper exploration and analysis.
 
 ## **Repository Structure**
-
