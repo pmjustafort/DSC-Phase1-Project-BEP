@@ -5,23 +5,23 @@ Bobby Daly, DS; Em Jager, DS; and Paul Justafort, DS.
 
 ![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/b10f9a2d-5783-4c77-a521-64094b1e16ce)
 
-**Overview**
+## **Overview**
 Our project involves analyzing aviation data from the National Transportation Safety Board (NTSB) aviation accident database, which contains information spanning from 1962 to 2022. By leveraging this rich dataset, our objective is to gain insights and knowledge that will inform decision-making processes in the aviation industry. We aim to assess trends, patterns, and key factors related to aviation accidents over the past six decades. Through this analysis, we will identify recurring themes, risk factors, and areas of improvement to enhance aviation safety and operational practices. 
 
 
-**Business Problem**
+## **Business Problem**
 Our newly established company, XXX, is entering the aviation industry, specifically in the purchase and operation of airplanes. In embarking on this exciting venture, we understand the paramount importance of prioritizing safety and establishing a reliable and secure operation right from the outset. Recent aviation incidents, such as the Boeing 737 MAX crisis triggered by the crashes of Lion Air Flight 610 and Ethiopian Airlines Flight 302, have underscored the critical significance of safety in aviation operations. To ensure long-term success and sustainability, we are committed to implementing robust safety practices and procedures that prioritize the well-being of passengers, crew members, and all stakeholders involved. By thoroughly exploring and analyzing decades of aviation data, we aim to make informed decisions that further enhance our commitment to safety and operational excellence.
 
-**Data**
+## **Data**
 The data utilized in this project are sourced from the National Transportation Safety Board (NTSB) aviation accident database, which houses an extensive collection of approximately 85,000 aviation accidents recorded between 1980 and 2022. This comprehensive dataset provides a rich resource for analyzing and exploring various aspects of aviation safety and accident patterns over a significant timeframe.
 
-#Methods
+## #Methods
 We utilize the summation method to calculate the total sum of relevant values. Additionally, we harness the robust technique of time series analysis to explore and analyze the temporal patterns, trends, and relationships within aviation data over a specific period. This comprehensive approach allows us to gain valuable insights into the evolution and dynamics of the aviation industry.
 
-#Data Understanding
+## **Data Understanding**
 Mitigating accidents is important, but when they do happen, fatalities represent the worst-case scenario. To ensure comprehensive insights and facilitate proactive risk mitigation, we have diligently filtered and thoroughly analyzed the available dataset. Our analysis focuses on examining the intricate relationship between fatalities and critical variables, including airplane make, engine type, and region of flight. By meticulously exploring these factors, we aim to uncover valuable patterns and trends that can empower your business to make informed decisions, enhance safety protocols, and effectively minimize potential risks and incidents.
 
-#Results
+## Results
 Fatalities Associated with Each Specific Airplane Make.
 In analyzing the airplane make, summation analysis simply showed that some Makes have large amounts of fatalities. 
 
