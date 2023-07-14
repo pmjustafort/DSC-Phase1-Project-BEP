@@ -1,7 +1,8 @@
 **Aviation Recommendations**
+
 **Authors**: Bobby Daly, DS; Em Jager, DS; and Paul Justafort, DS.
 
-  ![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/b10f9a2d-5783-4c77-a521-64094b1e16ce)
+                  ![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/b10f9a2d-5783-4c77-a521-64094b1e16ce)
 
 **Overview**
 Our project involves analyzing aviation data from the National Transportation Safety Board (NTSB) aviation accident database, which contains information spanning from 1962 to 2022. By leveraging this rich dataset, our objective is to gain insights and knowledge that will inform decision-making processes in the aviation industry. We aim to assess trends, patterns, and key factors related to aviation accidents over the past six decades. Through this analysis, we will identify recurring themes, risk factors, and areas of improvement to enhance aviation safety and operational practices. 
