@@ -80,5 +80,5 @@ Further details are available in the full analysis presented in the [Jupyter Not
 
 ## **Repository Structure**
 
-![Phase 1 Repo Diagram](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/c4156487-3106-4885-8990-41fc273856dc)
+![Phase 1 Repo Diagram](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/ef7841e9-403c-49ab-b699-058f9c8a17f7)
 
