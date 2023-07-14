@@ -79,3 +79,6 @@ By pursuing these next steps and further exploring the suggested variables, the 
 Further details are available in the full analysis presented in the [Jupyter Notebook](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/blob/main/daly_project_1-Copy.ipynb), as well as our interactive [Interactive Tableau Dashboard](https://public.tableau.com/authoring/Daly_Phase1_Project/Dashboard1#1). The Tableau dashboard provides a comprehensive visual representation of the data, allowing for deeper exploration and analysis.
 
 ## **Repository Structure**
+
+![Phase 1 Repo Diagram](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/c4156487-3106-4885-8990-41fc273856dc)
+
