@@ -4,7 +4,7 @@
 Bobby Daly, DS; Em Jager, DS; and Paul Justafort, DS.
 
 <div style="text-align: center">
-  <img src="![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/b10f9a2d-5783-4c77-a521-64094b1e16ce)">
+  <img src=![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/b10f9a2d-5783-4c77-a521-64094b1e16ce)>
 </div>
 
 "![image](https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/b10f9a2d-5783-4c77-a521-64094b1e16ce)"
