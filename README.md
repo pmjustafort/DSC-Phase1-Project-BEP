@@ -73,7 +73,7 @@ Considering Flight Types: Expanding the analysis to include more variation in th
 
 By pursuing these next steps and further exploring the suggested variables, the analysis of airplane safety and investment could be strengthened, enabling more informed decision-making for companies in the aviation industry.
 
-# Further Details
+## Further Details
 
 Further details are available in the full analysis presented in the Jupyter Notebook, as well as our interactive Tableau dashboard accessible via the provided link. The Tableau dashboard provides a comprehensive visual representation of the data, allowing for deeper exploration and analysis.
 
