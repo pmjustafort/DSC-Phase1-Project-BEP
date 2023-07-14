@@ -25,6 +25,7 @@ Mitigating accidents is important, but when they do happen, fatalities represent
 
 ## Results
 **Fatalities Associated with Each Specific Airplane Make.**
+
 In analyzing the airplane make, summation analysis simply showed that some Makes have large amounts of fatalities. 
 
  <img width="499" alt="image" src="https://github.com/pmjustafort/DSC-Phase1-Project-BEP/assets/137816262/9a793fd2-338e-4122-a9d7-71ae23737992">
